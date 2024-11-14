@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA and CP**
 
-- 👨‍💻 All of my projects are available at [https://anubhav9899.github.io/Personal-Website/](https://anubhav9899.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [https://anubhav9899.github.io/Personal-Website/](https://anubhav-singh1.vercel.app/)
 
 - 💬 Ask me about **DSA javascript**
 
